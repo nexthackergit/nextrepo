@@ -1,1 +1,1 @@
-# nextrepo
+# nextrepo yes
